@@ -1,6 +1,6 @@
 ## Apple Vision Website UI 
 
-This project is a UI clone of the Apple Vision website, designed to replicate the look and feel of Apple's official page. It features interactive animations, scroll-based effects, image sequences, and more, using modern web technologies such as GSAP, ScrollTrigger, and HTML5 canvas.
+This project is a UI clone of the Apple Vision website, designed to replicate the look and feel of Apple's official page. It features interactive animations, scroll-based effects, image sequences, and more, using modern web technologies such as GSAP & ScrollTrigger.
 
 ## Features
 
